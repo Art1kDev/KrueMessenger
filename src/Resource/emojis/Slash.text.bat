@@ -1,0 +1,1 @@
+@echo Slash.text.bat
